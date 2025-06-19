@@ -10,7 +10,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 
 # -- PENGATURAN --
-URL = "https://www.traveloka.com/id-id/hotel/search?spec=19-06-2025.20-06-2025.1.1.HOTEL_GEO.102813.Jakarta.2"
+URL = "https://www.traveloka.com/id-id/hotel/search?spec=01-01-2026.30-01-2026.29.1.HOTEL_GEO.102813.Jakarta.2"
 NAMA_FILE_CSV = 'data_hotel_lengkap_final.csv'
 
 options = webdriver.ChromeOptions()
