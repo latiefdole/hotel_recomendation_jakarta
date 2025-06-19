@@ -4,8 +4,7 @@ Proyek ini mendemonstrasikan pembuatan sistem rekomendasi hotel dari awal hingga
 
 Tujuan utama dari sistem ini adalah untuk merekomendasikan hotel kepada pengguna berdasarkan kemiripan konten (lokasi, fasilitas, tipe properti) dengan hotel lain yang mereka sukai.
 
-![Contoh Aplikasi Web]()
-_(URL gambar ini bisa diganti dengan screenshot aplikasi Anda sendiri)_
+![Contoh Aplikasi Web](sc1.png)
 
 ---
 
